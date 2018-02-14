@@ -1,0 +1,6 @@
+
+Under what circumstances is it appropriate to create simple, pencil-based wireframe sketches? When is it more appropriate to use a tool?
+
+You should use a pencil based wireframe when you need a quick sketch of the layout in order to further develop new ideas, figure out specific problems, go through various iterations, or any other task that would benefit from the speed of a rough estimation.
+
+After you have selected the general layout and design through the sketching process and subsequent client approval process, you should begin working on a wireframe using software that will allow you to be much more detailed in your design. It is important to be accurate in this stage and to use accurate substitutions for text, menu items, media, etc. This will allow you client to see what the site will look like at the end of this process and this will also help the people who will be implementing your design.

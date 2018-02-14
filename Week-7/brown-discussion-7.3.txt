@@ -1,0 +1,14 @@
+
+
+Research responsive design. Discuss what responsive design is and why it is important.
+
+Responsive Design is the concept of creating applications that can be used on a multitude of devices. This is accomplished by using CSS and page designs which can fit themselves neatly to the screen of the device being used. For instance, elements on the page may shrink themselves when displayed on a mobile screen, but be full size on a desktop monitor. The page can also shrink or reorganize itself if the window is resized on the device. This is useful for people like me who like to have many applications open side by side on the same monitor(s). Another example might be that on a desktop screen, three boxes are displayed side by side, but on mobile they are displayed on top of each other so that they can be scrolled through on the phone. However, these boxes could be displayed side by side once again if the phone is flipped into landscape mode. 
+
+Discuss and describe the four (4) common button states. What is each one’s purpose?
+
+    Normal State -  The normal state is the state in which the button appears as normal on the page. This is the base and default state of the button
+    Glow/Highlighted State -  The glow or highlighted states are applied when the user hovers over a button. This signals to the user that they are hovered over the button and can just press LMB to activate the button.
+    Down State -  The down state shows the user that the button is in the act of being pressed. This is especially important if your application allows a user to move the cursor off of the button mid press and let go of the click elsewhere on the page and have the button not be activated. This is also useful for people who may have slow computers or Internet connections, as it allows them to understand that the button has been pressed, even if the page is taking a long time to load.
+    Inactive State -  The inactive state reduces the contrast between the background color and label in order to make it appear as though the button is "grayed out". This lets the user know that the button is unavailable and will not work when pressed. 
+
+Sources: Silver, (2005) Exploring Interface Design.

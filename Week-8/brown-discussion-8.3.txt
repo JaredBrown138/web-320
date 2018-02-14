@@ -1,0 +1,9 @@
+Describe and discuss Section 508 guidelines. Who are these guidelines written to serve?
+
+The Section 508 guidelines are requirements that must be met for any website or electronic platform that the federal government uses or builds. These guidelines ensure that those with disabilities  are able to access the same information as anyone else. This includes formatting that helps the blind, deaf, cognitive and motor impaired. Many states are also adopting such standards. Section 508 was strengthened by the Workforce Investment Act of 1998. Some guidlines include using alt text form images, providing synchronized captions for videos, limiting the blinking and flickering of text or objects to outside of 2Hz- 55Hz, and designing for color blind users.
+
+Discuss equivalent alternatives. Why is this concept important to accessibility?
+
+Equivalent alternatives are alternative ways of displaying or passing along information to those who are disabled. There are many disabilities which might prevent someone from receiving information in the commonly available way. This would prevent them from being informed and they would not have equal access to the information. Alternatives using alt text, captions, and other special design considerations makes it easier for the disabled to have access to information, which is quickly becoming more and more important every day. 
+
+Silver, M. (2005). Exploring interface design. Clifton Park: Delmar Learning.
